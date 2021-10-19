@@ -37,14 +37,14 @@ Modules
 ## RESULTS:
 ## Registration Screen <br>
 
-![Registration Screen](https://user-images.githubusercontent.com/75100010/137852519-7126dbd3-77dd-44a0-8fac-15dbcd6bcd78.jpeg) <br>
+<img src="https://user-images.githubusercontent.com/75100010/137852519-7126dbd3-77dd-44a0-8fac-15dbcd6bcd78.jpeg" width="400" height="800"> 
 
 ## Login Screen
 
-![Log In Screen](https://user-images.githubusercontent.com/75100010/137852545-4642d7b1-f787-4b2b-ba12-16a90c42989d.jpeg)
-
-
+<img src="https://user-images.githubusercontent.com/75100010/137852545-4642d7b1-f787-4b2b-ba12-16a90c42989d.jpeg" width="400" height="800"> 
 
 ## Chat Screen
 
-![Chat Screen](https://user-images.githubusercontent.com/75100010/137853294-b18bd79f-3716-444b-8d5f-b93ba4e8b19b.jpeg)
+<img src="https://user-images.githubusercontent.com/75100010/137853294-b18bd79f-3716-444b-8d5f-b93ba4e8b19b.jpeg" width="400" height="800"> 
+
+
