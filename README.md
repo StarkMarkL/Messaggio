@@ -12,7 +12,7 @@ Messaggio is a very basic version of chatting app with features such as user log
 4. Maintaining Firebase for all messages of all the users<br>
 
 ## DETAILS:
-### Tech stack
+### Tech Stack
 
 <table>
   <tr>
@@ -28,22 +28,22 @@ Messaggio is a very basic version of chatting app with features such as user log
 </table>
 <br>
 
-Modules
+### Modules
 - firebase_core: ^0.4.4+3 <br>
 - firebase_auth: ^0.15.5+3 <br>
 - cloud_firestore: ^0.13.4+2 <br>
 <br>
 
 ## RESULTS:
-## Registration Screen <br>
+### Registration Screen <br>
 
 <img src="https://user-images.githubusercontent.com/75100010/137852519-7126dbd3-77dd-44a0-8fac-15dbcd6bcd78.jpeg" width="400" height="800"> 
 
-## Login Screen
+### Login Screen
 
 <img src="https://user-images.githubusercontent.com/75100010/137852545-4642d7b1-f787-4b2b-ba12-16a90c42989d.jpeg" width="400" height="800"> 
 
-## Chat Screen
+### Chat Screen
 
 <img src="https://user-images.githubusercontent.com/75100010/137853294-b18bd79f-3716-444b-8d5f-b93ba4e8b19b.jpeg" width="400" height="800"> 
 
