@@ -1,7 +1,7 @@
 # Messaggio
 A CHATTING APPLICATION
 <br>
-Messaging apps (a.k.a. "Social messaging" or "chat applications") is an app that enables messaging as any other social networking platforms. 
+Messagio app (a.k.a. "Social messaging" or "chat applications") is an app that enables messaging as any other social networking platforms. 
 Messaggio is a very basic version of chatting app with features such as user login and user authentication.
 <br><br>
 
